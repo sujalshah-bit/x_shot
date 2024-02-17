@@ -1,0 +1,10 @@
+flask_server/venv
+flask_server/chromedriver.exe
+flask_server/main.js
+flask_server/test.html
+
+
+# express server
+
+express_server/node_modules/
+express_server/*.lock
